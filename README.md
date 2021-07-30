@@ -1,10 +1,7 @@
-# Fusion Core Combiner
-### Fallout 4
+# Fusion Core Combiner (Fallout 4)
 
----
-
-## For users
+# For users
 Ready-to-be-installed versions can be found under Releases.
 
-## For modders
+# For modders
 This repository contains source codes for this mod.
